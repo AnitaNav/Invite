@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://j.gifs.com/xGJ1Kn.gif");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+#message {
+    margin-top: 10vmin;
+    background-color: burlywood;
+    opacity: 0.5;
+    font-family: 'Cedarville Cursive', cursive;
+}
